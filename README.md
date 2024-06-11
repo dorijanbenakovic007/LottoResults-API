@@ -2,7 +2,7 @@
 This is a simple API built with Sinatra that retrieves and serves lottery results. It provides endpoints to fetch the latest lottery results, results for a specific game, a list of available games, and the last results for a game.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/lotto-results-api.git`
+1. Clone the repository: `git clone https://github.com/dorijanbenakovic007/lotto-results-api.git`
 2. Install dependencies: `bundle install`
 
 ## Usage
